@@ -66,6 +66,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 64px;
+    align-items: center;
 }
 
 /* #endregion */
